@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Lidya Yunike Yauw, 51017013, SI 2017 ?? ";
